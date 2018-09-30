@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Custom Google Homepage",
-  "description": "This extension changes the background image of the Google homepage",
+  "description": "This extension changes the newtab page to have different background images and display the date/time",
   "version": "1.0",
   "icons": {
     "16": "image-icon.png"

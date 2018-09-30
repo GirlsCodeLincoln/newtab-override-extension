@@ -21,7 +21,6 @@ var backgrounds = [
 var randomIndex = Math.floor(Math.random() * backgrounds.length);
 
 document.body.style.backgroundImage = 'url("' + backgrounds[randomIndex] + '")';
-document.body.style.backgroundSize = "cover";
 
 var timeElement = document.getElementById("current-date");
 
