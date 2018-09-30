@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#date-container {
+  text-align: center;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: darkslategray;
+}

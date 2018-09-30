@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Custom Google Homepage",
+  "description": "This extension changes the background image of the Google homepage",
+  "version": "1.0",
+  "icons": {
+    "16": "image-icon.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newPage.html"
+  }
+}
